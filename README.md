@@ -1,5 +1,9 @@
 # Learn GitHub Actions
 
+[![License](https://badgen.net/github/license/ngodingbang/rwid-github-actions "License")](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/agusdev/rwid-github-actions/LICENSE.md)
+
+[![Release](https://badgen.net/github/release/ngodingbang/rwid-github-actions "Release")](https://github.com/ngodingbang/rwid-github-actions/releases)
+
 Learn CI/CD on GitHub Actions using TypeScript.
 
 This code was developed with TypeScript.
@@ -8,7 +12,7 @@ This code was developed with TypeScript.
 
 ## Requirement
 
-- [![Node.js](https://img.shields.io/badge/Node.js%20^22.11.0-43853D?logo=node.js&logoColor=white "Node.js")](https://nodejs.org)
+- [![Node.js](https://img.shields.io/badge/Node.js%20^20.17.0-43853D?logo=node.js&logoColor=white "Node.js")](https://nodejs.org)
 
 ## Installation
 
@@ -37,4 +41,4 @@ The MIT License (MIT). Please see [`LICENSE.MD`](LICENSE.md) for more informatio
 
 ## Author
 
-- [@](https://github.com/Agus27111)agus2711
+- [@agus2711](https://github.com/Agus27111)
