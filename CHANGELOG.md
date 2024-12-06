@@ -9,3 +9,7 @@ All notable changes to `RWID GitHub Actions` will be documented in this file.
 ## [1.1.0](https://github.com/ngodingbang/rwid-github-actions/releases/tag/1.1.0) - 2024-11-01
 
 - ci: create github actions script to run unit test using jest by [@Agus27111 ](https://github.com/Agus27111)in [#14cc6ab](https://github.com/Agus27111/learn-cicd/commit/7ae68c6ebc88e2cc703a3b574adb2708614cc6ab).
+
+## [1.2.0](https://github.com/ngodingbang/rwid-github-actions/releases/tag/1.2.0) - 2024-12-07
+
+- ci: adding codecov in github action [@Agus27111 ](https://github.com/Agus27111)in [#63bbd9b](https://github.com/Agus27111/learn-cicd/commit/f5ac790781cc98cd19e1463b33f3dc7ad63bbd9b).
